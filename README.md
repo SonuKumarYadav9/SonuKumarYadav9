@@ -1,6 +1,6 @@
 Hello Universe! I am Sonu Kumar Yadav 👋
 
-🌱 I’m currently learning Javascript and other tech related stuff.
+🌱 I’m currently learning MERN stack and other tech related stuff.
 
 👯 I’m currently looking for a job.
 
